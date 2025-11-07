@@ -6,5 +6,8 @@
 - 🏋️‍♂️ Fitness Fan · Chess Player · Berlin Based
 - 🌏 English · German
 
-## Projects
-Weather App · Portfolio Website · Space Invader Game · API Integrations
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,flask,docker,nodejs,express,mongodb,mysql,php,reactnative,tailwind,html,css" alt="Tech Stack" />
+</p>
