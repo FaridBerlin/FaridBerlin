@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**FaridBerlin/FaridBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I’m Farid Berlin
 
 - 🚀 Full Stack Developer (React · Node.js · Python · PHP)
 - 🤖 Learning AI & Automation @ DCI Digital Career Institute
@@ -11,4 +8,3 @@
 
 ## Projects
 Weather App · Portfolio Website · Space Invader Game · API Integrations
--->
