@@ -8,9 +8,8 @@
 
 ## 🛠️ Skills
 
-💀 JavaScript 💀 TypeScript 💀 React 💀 Python 💀 Flask 💀 Docker 💀 Node.js 💀 Express.js 💀 MongoDB 💀 MySQL 💀 PHP 💀 React Native 💀 Tailwind CSS 💀 HTML 💀 CSS
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,python,flask,docker,nodejs,express,mongodb,mysql,php,reactnative,tailwind,html,css" alt="Tech Stack" />
 </p>
+
 
