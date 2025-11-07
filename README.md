@@ -1,4 +1,4 @@
-# Hi there 👋 I’m Farid Berlin
+# Hi there 👋 I’m Farid Hima
 
 - 🚀 Full Stack Developer (React · Node.js · Python · PHP)
 - 🤖 Learning AI & Automation @ DCI Digital Career Institute
